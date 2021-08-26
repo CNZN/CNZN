@@ -1,5 +1,3 @@
-
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=CNZN&theme=dark&show_icons=true">](https://metrics.lecoq.io/CNZN?template=classic))
 - 👋 Hi, I’m @Kenny
 - 👀 I’m interested in code
 - 🌱 I’m currently learning webpack and nginx~~
